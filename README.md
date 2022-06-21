@@ -11,7 +11,7 @@ https://youtu.be/HGwBXDKFk9I
 
 ## Installation
 
-Install tensorflow and create a virtual enviroment using steps 
+Install tensorflow and create a virtual enviroment using
 Installation Instructions from https://developer.apple.com/metal/tensorflow-plugin/
 
     
